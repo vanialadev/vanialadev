@@ -2,8 +2,8 @@
 
 ### Desenvolvedora Mobile
 
-<div align="center">
-    <img src="./assets/dev.gif" width="40%" align="right" alt="Desenvolvedora" />
+<div align="left">
+    <img src="./assets/dev.gif" width="47%" align="right" alt="Desenvolvedora" />
 
 <div>
 
