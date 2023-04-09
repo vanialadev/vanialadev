@@ -1,6 +1,6 @@
 # Vania Almeida 👋
 
-### Desenvolvedora Mobile
+### Desenvolvedora Mobile - [Roadmap](https://github.com/vanialadev/roadmap)
 
 <div align="left">
     <img src="./assets/dev.gif" width="47%" align="right" alt="Desenvolvedora" />
@@ -12,8 +12,8 @@
     var nome: String = "Vania Almeida",
     var experiencia: String = "+8 anos"
     var idade: Int = 32,
-    var formacao: String = "Ciência da Computação - Unifor",
-    var especializacao: String = "Engenharia de Software - UNI7",
+    var formacao: String = "Ciência da Computação",
+    var especializacao: String = "Engenharia de Software",
     var ocupacao: String = "Desenvolvedora Mobile",
     var endereco: String = "Fortaleza/CE",
     var pronome: String = "ela/dela",
@@ -24,8 +24,6 @@
 &nbsp;
 </div>
 </div>
-
-<!-- https://cursos.alura.com.br/user/vaniala -->
 
 ### Mobile
 
